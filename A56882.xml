@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quæries touching the present condition of His Majesties kingdom of Ireland</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56882</idno><idno type="EEBO-CITATION">99832014</idno>
+  <idno type="VID">36482</idno>
+  <idno type="EEBO-PROQUEST">2240936057</idno>
+  
+            <idno type="STC">Wing Q177A</idno>
+            <idno type="STC">ESTC R220618</idno>
+            <idno type="PROQUEST">99832014</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832014e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2055:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quæries touching the present condition of His Majesties kingdom of Ireland</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1668?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint conjectured by Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:36482:1"/>
+            <pb n="1" facs="tcp:36482:1"/>
+            <head>QUAERIES Touching the Present Condition Of His MAJESTIES KINGDOM Of IRELAND.</head>
+            <p n="1">1. WHether it be not demonstrable by search made into the Records of His Majesties Auditor General of <hi>Ireland,</hi> that had his Majesties Revenue of that Kingdome been well managed, there had been money enough to an<g ref="char:EOLhyphen"/>swer the necessary Charge of that Kingdom?</p>
+            <p n="2">2. Whether upon search made of His Majesties Exchequer in <hi>England,</hi> there doth not appear upwards of 200000 l. sent out of <hi>England</hi> into <hi>Ireland</hi> since the Duke of <hi>Ormonds</hi> last Government there?</p>
+            <p n="3">3. Whether there doth not appear that there were twenty four Subsidies amounting to 360000 l. assessed by the late Parliament of <hi>Ireland?</hi>
+            </p>
+            <p n="4">4. Whether there was not 50000 l. advanced out of the Soldiers and Adventurers Rents?</p>
+            <p n="5">5. Whether the aforesaid Summs thus extraordinarily raised, do not amount to above six hundred thousand pounds?</p>
+            <p n="6">6. Whether the aforesaid extraordinary Summs would not discharge near Four Years of His Majesties Establishment
+<pb n="2" facs="tcp:36482:2"/>both in the Civil and Martial List, Independently of the Revenue of that Kingdom?</p>
+            <p n="7">7. Though the aforesaid Summs extraordinarily raised would have paid near Four Years Establishment, yet whe<g ref="char:EOLhyphen"/>ther the Martial and Civil Lists be not a Year and half in arrear?</p>
+            <p n="8">8. Whether His Majesties Ordinary, certain and Casual Revenue, which if well managed, might have fully paid His Majesties necessary Charge, whether upon the aforesaid Principles it is not demonstrable, that the said revenue hath not discharged more then one year and a halfs Establishment in fix years time?</p>
+            <p n="9">9. Whether it be not demonstrable then, that there hath been more then Four years and a halfs Revenue embesled in six years time: and whether the chief Governour be not more faulty in this great miscarriage then the Earle of <hi>Anglesy.</hi>
+            </p>
+            <div type="part">
+               <head>Quaeries <hi>in Relation to the Lord Duke of</hi> Ormond.</head>
+               <p n="1">1. Whether by sales of Offices, as Lord Steward and re<g ref="char:EOLhyphen"/>ceits out of His Majesties Exchequer of <hi>England,</hi> the Lord Duke of <hi>Ormond</hi> hath not raised upwards of 30000 l?</p>
+               <p n="2">2. Whether he did not receive by one Act of Parliament of <hi>Ireland</hi> as a gift, 30000 l?</p>
+               <p n="3">3. Whether it doth not appear by the Records of His Majesties Treasurie <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Ireland,</hi> that his Grace did receive 12000 l. before his being last Lievtenant?</p>
+               <p n="4">4. Whether he did not receive 12000 l. <hi>per annum</hi> as Lord Lievtenant, which was a Moyetie more than any Lord Lievtenant received; and that Moyetie amounts in six years to 36000 l?</p>
+               <p n="5">5. Whether it doth not appear that his Grace hath released
+<pb n="3" facs="tcp:36482:2"/>by the Act of Settlement 60000 l? due to honest men and good Subjects, upon his Estate before the Rebellion?</p>
+               <p n="6">6. Whether his Grace hath not received 30000 l. out of Soldiers and Adventurers Lands, which he invaded and entered upon without any Title, as appears by the Records of the Court of <hi>Claymes</hi> in <hi>Ireland,</hi> which hath decreed the Lands from him?</p>
+               <p n="7">7. Whether by the Act of Explanation he hath not got the City of <hi>Kilkenny,</hi> and six other Corporat Towns, together with their Lands and Liberties, valued by himself and his friends of the Councell but at 60000 l. though they are well worth 120000 l?</p>
+               <p n="8">8. Whether he did not obtain by a special warrant from His Majestie 72000 l. out of the Soldiers and Adventurers half year Revenue?</p>
+               <p n="9">9. Whether there is not confirmed to him 50000 l. more by the Explanatory Act, for waving a grant which he got by the Act of Settlement?</p>
+               <p n="10">10. Whether he hath not got as many Gentlemens Estates, upon the pretence of a grant of enjoying all Lands that he could prove (by witnesses) to have payed him any Chiefrey, as is worth at least 150000 l. and whether also, he hath not ob<g ref="char:EOLhyphen"/>tained that for the said Lands, no quitt Rent be paid to the King, which grant at 3<hi>d.</hi> an Acre <hi>per annum</hi> amounts to 26000 l?</p>
+               <p n="11">11. Whether he hath not arbitrarily laied upon the In<g ref="char:EOLhyphen"/>habitants of the City of <hi>Dublin</hi> 8000 l. <hi>per annum,</hi> amounting (for these six years past of his Government) to 48000 l?</p>
+               <p n="12">12. Whether he hath not against the fundamental Laws and <hi>Magna Charta,</hi> inclosed divers parcells of Land belonging to the Kings good Subjects without their consent, to the value of 1500 l. <hi>per annum</hi> at the very Gates of <hi>Dublin,</hi> to the great prejudice of that City and the Country; the profit
+<pb n="4" facs="tcp:36482:3"/>of which Land and Park, he hath bestowed upon the Lord of <hi>Dungannon</hi> and Colonel <hi>Cook?</hi>
+               </p>
+               <p n="13">13. Whether it be credible, that his Grace is zealous for the English and Protestant Interest, seeing it is not possible for the Soldiers and Adventurers to be reprized according to His Majesties gracious Declaration, when his Grace hath swallowed up in gifts and grants the best part of the Stock of Reprizalls, and hath made or permitted such Embeslements of His Majesties revenue, and applyed the Royal autho<g ref="char:EOLhyphen"/>rity, wholly to gain vast advantages to himself, and whether by preferring his own private gains and grants, before the Pub<g ref="char:EOLhyphen"/>lique good and the Just right of the Adventurers and Soldiers, he hath not unsettled the Kingdom of <hi>Ireland,</hi> and unsatisfied the two main interests of Protestants (the Soldiers and Ad<g ref="char:EOLhyphen"/>venturers) to such a degree, that it is to be feared, it will be a continual charge to <hi>England,</hi> to keep to the rules of the Acts of Settlement and Explanation so destroyed and desperate a people: and whether all this expence, trouble and danger, for preserving the Duke of <hi>Ormond</hi> and his Family (that is as much <hi>Irish</hi> as any can be) in other mens Inheritances, and Rights, be the interest of <hi>England</hi> or agreable to the Maxims of sound Policy or of Christian Piety?</p>
+               <p n="14">14. Whether such of His Majesties Protestant Subjects of <hi>Ireland,</hi> as have escaped the Duke of <hi>Ormonds</hi> Proviso, have not just grounds to fear, that if the same Duke of <hi>Ormond</hi> should continue in his Government, and press, as now he doth, the payment of 100000 l. they will not be in a con<g ref="char:EOLhyphen"/>dition to live, or to pay His Majesties quit Rents, and the necessary charges of the Kingdom?</p>
+               <p n="15">15. Whether after the Prohibition of transporting Cattle, and so much oppression, by the Lord Lievtenant and his Creatures, it be possible for His Majesties empoverished Subjects of <hi>Ireland,</hi> to pay the 300000 l. assessed by the
+<pb n="5" facs="tcp:36482:3"/>Explanatory Act, whereof the First 100000 l. is for his Grace?</p>
+               <p n="16">16. Whether his Grace had not a great regard for His Majesties service, when he lately pressed the King and Coun<g ref="char:EOLhyphen"/>cel to call a Parliament in <hi>Ireland,</hi> for imposing new Taxes upon that miserable people, and for confirming all his own new acquisitions, whereby the Soldiers, Adventurers and Nominees are defrauded of his Majesties intended favours, and the <hi>English</hi> interest utterly destroyed?</p>
+               <p n="17">17. Whether the Duke of <hi>Ormonds</hi> gifts and grants amount not unto 630000 l. and whether this Summe would not have satisfied all the <hi>English</hi> interest of <hi>Ireland,</hi> and have settled the Protestants and well meriting Natives of that Kingdom in peace; whereas now His Majesty and all Chri<g ref="char:EOLhyphen"/>stendom is troubled with their clamours against the breach of Publique Faith; and all this stirr, destruction of the people, and discredit of the Government, to humour one particular man, whose merit is not so extraordinary, as his management hath been unsuccesseful?</p>
+               <p n="18">18. Whether not only some of the Nobility of <hi>Ireland,</hi> but very many of the Nobility, Knights and Gentry of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have not lost greater revenues, and richer moveables for being Cavaliers, then the Duke of <hi>Ormond,</hi> whose Estate was much incumbered, and his rents before the rebellion exceeding not 7000 l. <hi>per annum,</hi> and during the Warr, got more by his Government of <hi>Ireland,</hi> and giving up <hi>Dublin,</hi> then he could if he were in possession of his Estate?</p>
+               <p n="19">19. Whether such as endeavoured to conceale these mis<g ref="char:EOLhyphen"/>carriages and miseries of the Kingdom of <hi>Ireland</hi> from His Majesties and the Parliaments knowledge, and yet strive to have the Duke of <hi>Ormonds</hi> destructive Government con<g ref="char:EOLhyphen"/>tinue, deserve not to be questioned by the Parliament, as
+<pb n="6" facs="tcp:36482:4"/>betrayers of the Publique good, and of the Lawes and Li<g ref="char:EOLhyphen"/>berties of <hi>England?</hi>
+               </p>
+               <p n="20">20. Whether it be fit, that the Government of <hi>Ireland</hi> should continue so long in one person, as it hath in the Duke of <hi>Ormond,</hi> though he were not an Irish man, and all his relations were not Papists, and very great Enemies of the English and Protestant interest?</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36482:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
